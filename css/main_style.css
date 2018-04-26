@@ -1,0 +1,60 @@
+body{
+	background-image:url("../images/frnd.jpg");
+}
+
+
+
+
+.main{
+	width:1000px;
+	margin-left: auto;
+	margin-right: auto;
+	/*border: 1px solid blue;*/
+	height: 500px;
+}
+
+.header{
+	font-family: segoe script;
+	width: 998px;
+	/*border: 1px solid black;*/
+	height: 100px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+	font-style:italic;
+}
+
+.navigation{
+	width: 200px;
+	/*border: solid black;*/
+	float: left;
+}
+
+.content{
+	width: 698px;
+	/*border: 1px solid black; */
+	float: right;
+	padding:50px;
+	padding-top: 20px;
+	color: white;
+}
+
+.footer{
+	width:998px;
+	/*border-top: 1px solid white;*/
+	height: 50px;
+	float:left;
+	text-align:center;
+	font-weight: bold;
+}
+
+h1 , h2, h3{
+	text-align: center;
+}
+
+
+}
+ address{
+ 	height:70px;
+ }

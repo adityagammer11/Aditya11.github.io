@@ -1,0 +1,52 @@
+.navigation .menu{
+	list-style: none;
+	font-size: 20px;
+	font-weight: blod;
+	text-align: center;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin: 10px;
+}
+
+.navigation .menu 1i{
+	background:black;
+	border:0px;
+	color:white;
+	font-weight: bold;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:100% ;
+	margin-left: -18px;
+	margin-top:20px;
+	margin-bottom: 20px;
+	cursor:pointer;
+}
+
+.navigation .menu a:link{
+	color:white;
+
+
+	text-decoration: none;
+
+
+}
+
+.navigation .menu a:visited{
+	color:white;
+	text-decoration:none;
+
+
+}
+
+.navigation .menu a:hover{
+	color:white;
+	 text-decoration:underline;
+}
+
+.navigation .menu a:active{
+	color: white;
+	text-decoration: underline;
+}
+.p{
+	border: 4px solid white;
+}
